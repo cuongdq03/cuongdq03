@@ -233,16 +233,6 @@ src="https://raw.githubusercontent.com/cuongdq03/cuongdq03/gh-pages/github-contr
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=cuongdq03&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 # 🧠 Network Engineer Mindset
 
